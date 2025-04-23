@@ -2,7 +2,7 @@
 import { GifItem } from "./GifItem";
 import { useFetchGifs } from "../hooks/useFetchGifs";
 //import { getGifs } from "../helpers/getGifs";
-
+//git checkout -- . // para deshacer cambios no deseados en el repo
 
 
 export const GifGrid = ({ category }) => {
